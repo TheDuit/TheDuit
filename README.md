@@ -22,6 +22,9 @@ Desenvolvedor Full-Stack!
 
 
 ### GitHub Stats
-![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheDuit&theme=dark&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDuit&theme=dark&layout=compact&card_width=400)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDuit&theme=dark&show_icons=true&card_width=400)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDuit&theme=dark&layout=compact&card_width=400)
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TheDuit&theme=dark&show_icons=true&card_width=400)
+
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheDuit&theme=github_dark)
