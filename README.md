@@ -73,13 +73,3 @@ Experimento de interface e comportamento visual para elementos flutuantes.
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TheDuit&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/TheDuit)
 
 [![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDuit&theme=github_dark&layout=compact&hide_border=true&langs_count=8&card_width=500)](https://github.com/TheDuit)
-
----
-
-## Contato
-
-Estou aberto a projetos e oportunidades envolvendo desenvolvimento web, interfaces, automação, computação gráfica e experiências interativas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmramos/)
-[![GitHub](https://img.shields.io/badge/GitHub-TheDuit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDuit)
-```
