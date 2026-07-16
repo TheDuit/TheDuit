@@ -27,4 +27,4 @@ Desenvolvedor Full-Stack!
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TheDuit&theme=dark&show_icons=true&card_width=400)
 
-![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheDuit&theme=github_dark)
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheDuit&theme=github_dark&show_icons=true&card_width=400)
